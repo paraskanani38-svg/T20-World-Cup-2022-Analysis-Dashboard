@@ -21,3 +21,20 @@ This dashboard includes an analysis of the ICC T20 World Cup 2022 data, which in
 - Power BI Dashboard PDF Report
 - Power BI Dashboard Data Set (JSON)
 - Power BI Dashboard Screenshots
+
+## Dashboard Screenshots
+
+### Summary Dashboard
+![Summary](Summary.jpeg)
+
+### Batting Analysis
+![Batting](Batting_summary.jpeg)
+
+### Bowling Analysis
+![Bowling](Bowling_Analysis.jpeg)
+
+### Match & Ground Analysis
+![Match & Ground](Match&Ground_analysis.jpeg)
+
+### Player Insights
+![Player Insights](Players_insights.jpeg)
