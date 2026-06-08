@@ -1,2 +1,23 @@
-# T20-World-Cup-2022-Analysis-Dashboard
-Developed an interactive Power BI dashboard to analyze ICC T20 World Cup 2022 data, including match outcomes, batting stats, bowling metrics, and player performance. The dashboard offers a detailed view of team performance, leading batsmen, top bowlers, match outcomes, and player stats using interactive visuals and customizable filters. 
+# T20 World Cup 2022 Analysis Dashboard
+
+# Overview
+This dashboard includes an analysis of the ICC T20 World Cup 2022 data, which includes insights on player statistics related to batting, bowling, match outcomes, and venues where the games were played. 
+
+# Tools
+- Power BI
+- Power Query
+- Data Analysis Expressions (DAX)
+- JavaScript Object Notation (JSON)
+- Data Visualization Software 
+
+ Insight
+- Players with the most runs scored
+- Players who took the most wickets
+- Understand how matches were played and the grounds used
+- Provide player statistics based on their gameplay
+
+# Deliverables
+- Power BI Dashboard (.pbix)
+- Power BI Dashboard PDF Report
+- Power BI Dashboard Data Set (JSON)
+- Power BI Dashboard Screenshots
