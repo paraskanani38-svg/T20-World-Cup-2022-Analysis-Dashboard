@@ -24,9 +24,6 @@ This dashboard includes an analysis of the ICC T20 World Cup 2022 data, which in
 
 ## Dashboard Screenshots
 
-### Summary Dashboard
-![Summary](Summary.jpeg)
-
 ### Batting Analysis
 ![Batting](Batting_summary.jpeg)
 
@@ -38,3 +35,6 @@ This dashboard includes an analysis of the ICC T20 World Cup 2022 data, which in
 
 ### Player Insights
 ![Player Insights](Players_insights.jpeg)
+
+### Summary Dashboard
+![Summary](Summary.jpeg)
